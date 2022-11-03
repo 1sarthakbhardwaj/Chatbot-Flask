@@ -11,10 +11,10 @@
         "Good day"
       ],
       "responses": [
-        "Hey :-)",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hey NITH Bot is here",
+        "Hello, NITH Bot is here",
+        "Hi there,NITH Bot is here for you",
+        "Hi there, NITH Bot is here ?"
       ]
     },
     {
@@ -34,26 +34,22 @@
     {
       "tag": "items",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "Who have the most classes?",
+        "Faculty for ML?",
+        "Faculty for AI?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "Mr Mohit is Faculty for ML and AI"
       ]
     },
     {
       "tag": "payments",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "What programmes does NITH provide?",
+        "What courses do NITH provide?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "Btech, Mtech, Dual Degree, MBA, PHd"
       ]
     },
     {
